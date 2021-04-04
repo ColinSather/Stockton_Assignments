@@ -1,0 +1,16 @@
+Doe
+Johnny
+123-456-7890
+2,4,6
+Operational
+5000.00	Checking	Account 1
+2000.00	Checking	Account 2
+2200.00	Checking	Account 3
+2200.00	Checking	Account 4
+Retirement
+100.00	Savings	T001
+130.00	Savings	T002
+900.00	Savings	T003
+650.00	Savings	T004
+400.00	Savings	T006
+400.00	Savings	T007
