@@ -53,10 +53,4 @@ This process is pretty straight forward, you can find many solutions online as w
 
 1. Most academic dishonesty policies result in immediate expulsion.
 2. If you do not understand the concepts covered in the code you will fail programming exams.
-3. The solutions in this repository are not 100% correct.
-
-## Notes to Self
-Delete package labeled "Important" in `CSCI_2102/Random Graphics GUI` 
-
-
-
+3. The solutions in this repository are not 100% 
